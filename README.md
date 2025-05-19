@@ -135,7 +135,7 @@ This project explores and analyzes historical auto sales transactions from multi
 **Tridip Dowari**  
 Data Analyst | Python Developer  
 📧 tridipdowari75@gmail.com 
-🔗 [GitHub](https://github.com/yourusername)  
+🔗 [GitHub](https://github.com/tridipdowari)
 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
